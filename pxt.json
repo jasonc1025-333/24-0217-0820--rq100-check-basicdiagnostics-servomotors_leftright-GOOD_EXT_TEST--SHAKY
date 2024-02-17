@@ -1,5 +1,6 @@
 {
     "name": "RQ100-Check-BasicDiagnostics-ServoMotors_Left&Right",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
